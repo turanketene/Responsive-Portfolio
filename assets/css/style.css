@@ -167,6 +167,9 @@ h3, h2 {
   background: #4aaaa5;
   border-bottom: 0;
 }
+.work a {
+  position: absolute;
+}
 
 .auth-image {
   float: left;
